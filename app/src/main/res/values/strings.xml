@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AnimationActivity</string>
+    <string name="normal">Normal</string>
+    <string name="anim">Anim</string>
+    <string name="library">Library</string>
+    <string name="swipe">Swipe</string>
+    <string name="goto_a"><![CDATA[Goto -> A]]></string>
+    <string name="goto_b"><![CDATA[Goto -> B]]></string>
+    <string name="parameter">Parameter</string>
+    <string name="normal_a">Normal A</string>
+    <string name="normal_b">Normal B</string>
+    <string name="animation_a">Animation A</string>
+    <string name="animation_b">Animation B</string>
+    <string name="library_a">Library A</string>
+    <string name="library_b">Library B</string>
+    <string name="swipe_a">Slide A</string>
+    <string name="swipe_b">Slide B</string>
+</resources>
